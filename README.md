@@ -29,7 +29,6 @@ This is a step-by-step video tutorial, accompanied by a practical example projec
 ### Technical Requirements
 This course has the following software requirements:<br/>
 
-Install Meteor application <br/>
 Knowdlege of JavaScript <br/>
 Install Meteor Application <br/>
 Internet access <br/>
